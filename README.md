@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.pinimg.com/474x/c1/4e/90/c14e904e488aa56f3d87f0d89434dea7.jpg" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Aymen, a full-stack developer 👨‍💻</div>  
